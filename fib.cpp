@@ -1,5 +1,5 @@
 long fibonacci(unsigned n) {
-    if (n < 4) return n;
+    if (n < 6) return n;
     return fibonacci(n-1) + fibonacci(n-2);
 }
 long fibit(int num) {
