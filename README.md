@@ -1,1 +1,1 @@
-# CS372 Lab Repo
+# CS372Lab.Hamilton
