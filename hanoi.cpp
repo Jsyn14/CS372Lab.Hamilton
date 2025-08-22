@@ -1,3 +1,5 @@
+#Authored by Dr.Lewis
+#Modified by Jayson Hamilton
 #include <iostream>
 #include <chrono>
 using namespace std;
