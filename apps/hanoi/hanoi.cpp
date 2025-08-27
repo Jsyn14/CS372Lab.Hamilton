@@ -51,6 +51,5 @@ void moveDisks(int num, int fromPeg, int toPeg, int tempPeg) {
 }
 
 void printIt(int /*disk*/, int /*fromPeg*/, int /*toPeg*/) {
-    // Intentionally empty to avoid spamming output during timing.
-    // (If you need to see each move later, print here.)
+  
 }
