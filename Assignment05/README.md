@@ -1,4 +1,4 @@
-# Assignment05 — O(n^2) vs O(n log n) Sorting Timings
+# Assignment05 — Empirical Testing of Sorts
 
 ## Build (Windows, CMake)
 ```powershell
