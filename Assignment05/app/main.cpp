@@ -1,3 +1,6 @@
+// Author: Jayson Hamilton
+// Assisted by: Replit
+
 #include <algorithm>
 #include <chrono>
 #include <iostream>
