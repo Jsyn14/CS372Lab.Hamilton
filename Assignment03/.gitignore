@@ -1,0 +1,22 @@
+/build/
+/cmake-build-*/
+/CMakeFiles/
+/CMakeCache.txt
+/.vs/
+/.vscode/
+/*.sln
+*.vcxproj*
+*.obj
+*.pdb
+*.ilk
+*.exe
+.exe
+.obj
+.pdb
+.ilk
+.png
+check-ignore -v **/* | head -50.exe
+check-ignore -v **/* | head -50.obj
+check-ignore -v **/* | head -50.pdb
+check-ignore -v **/* | head -50.ilk
+check-ignore -v **/* | head -50.png
